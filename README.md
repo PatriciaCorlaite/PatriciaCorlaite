@@ -1,5 +1,5 @@
 # 💫 About Me:
-Em 2019 escolhi sair da minha zona de conforto e me dedicar a um sonho que eu tinha, que era estudar tecnologia. Desde então, tenho atuado na área de desenvolvimento, com foco em desenvolvimento web. Tenho trabalhado com tecnologias como C#, .Net, Banco de Dados SQL Server, atuando com API MVC e desenvolvedora ASP e .Net. Meu objetivo é continuar atuando na área de desenvolvimento de software, contribuindo com meu conhecimento e habilidades em projetos desafiadores. 
+Em 2019, decidi sair da minha zona de conforto e perseguir um sonho: estudar tecnologia. Desde então, tenho me dedicado ao desenvolvimento, com ênfase em desenvolvimento web. Minha experiência inclui o trabalho com tecnologias como C#, .NET, SQL Server, API MVC e ASP.NET. Meu objetivo é continuar contribuindo para a área de desenvolvimento de software, aplicando meu conhecimento e habilidades em projetos desafiadores e inovadores.
 
 
 ## 🌐 Socials:
