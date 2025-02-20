@@ -1,5 +1,5 @@
 # 💫 About Me:
-Em 2019, decidi sair da minha zona de conforto e perseguir um sonho: estudar tecnologia. Desde então, tenho me dedicado ao desenvolvimento, com ênfase em desenvolvimento web. Minha experiência inclui o trabalho com tecnologias como C#, .NET, SQL Server, API MVC e ASP.NET. Meu objetivo é continuar contribuindo para a área de desenvolvimento de software, aplicando meu conhecimento e habilidades em projetos desafiadores e inovadores.
+Profissional de tecnologia com sólida experiência no desenvolvimento de soluções full-stack, atuando tanto no Front-end quanto no Back-end. Especialista em desenvolvimento com .NET Core, C#, SQL Server e Micro Serviços, aplicando princípios de SOLID e Design Patterns para garantir código escalável e de alta qualidade. No Front-end, tenho experiência em JavaScript, TypeScript, Angular, Bootstrap, HTML5 e CSS3, desenvolvendo interfaces dinâmicas e responsivas. Trabalho com Scrum e metodologias ágeis, garantindo entregas eficientes e alinhadas às necessidades do negócio. Busco contribuir com soluções inovadoras e aprimorar constantemente minhas habilidades técnicas para agregar valor aos projetos e às empresas.
 
 
 ## 🌐 Socials:
